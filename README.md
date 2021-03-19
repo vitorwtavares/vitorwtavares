@@ -1,7 +1,5 @@
 # Vítor Tavares ∾ @vitorwtavares
 
-# Vítor Tavares—@vitorwtavares
-
 ### ✨ Hi there, stranger ✨
 
 🖥️ I'm a Front-end Developer located in Brazil, currently working on cool stuff over at 🚀[Nave.rs](https://nave.rs/)<br>
