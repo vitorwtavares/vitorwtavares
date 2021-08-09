@@ -26,4 +26,3 @@
 ### Find me online
 
 ###### [Vítor Tavares on LinkedIn](https://linkedin.com/in/vitorwtavares)
-###### [@vitorwtavares on Twitter](https://twitter.com/vitorwtavares)
