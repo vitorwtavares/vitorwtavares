@@ -24,4 +24,4 @@
 
 ### Find me online
 
-###### [Vítor Tavares on LinkedIn](https://linkedin.com/in/vitorwtavares)
+###### [Vítor Tavares on LinkedIn](https://www.linkedin.com/in/vitorwtavares/?locale=en_US)
