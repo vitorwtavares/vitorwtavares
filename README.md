@@ -2,7 +2,7 @@
 
 ### ✨ Hi there, stranger ✨
 
-🖥️ I'm a Software Engineer located in Brazil, currently working on cool stuff over at [Fetchly Labs](https://www.fetch.ly/)<br>
+🖥️ I'm a Software Engineer located in Brazil, currently working on cool stuff over at [AvantStay](https://avantstay.com/)<br>
 ⌨️ I love creating projects and learning new technologies<br>
 🍕 In my spare time I'm a home cook who thinks he's a chef, I've been told my pizzas are pretty good<br>
 🎮 Love playing online games and watching e-sports
