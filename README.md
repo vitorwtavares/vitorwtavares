@@ -11,7 +11,7 @@
 
 <img alt="React.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"><img alt="Vue.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vuejs/vuejs-original.svg">
 <img alt="TypeScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
-<img alt="Next.js" width="246" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png">
+<img alt="Next.js" width="50" height="50" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png">
 <img alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redux/redux-original.svg">
 <img alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg">
 <img alt="Sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/sass/sass-original.svg">
