@@ -9,8 +9,8 @@
 
 ### Cool tech I'm currently using and learning
 
-<img alt="React.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"><img alt="Vite" width="50" height="50" src="https://vitejs.dev/logo-with-shadow.png">
-<img alt="TypeScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
+<img alt="React.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"><img alt="TypeScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
+<img alt="Vite" width="50" height="50" src="https://vitejs.dev/logo-with-shadow.png">
 <img alt="Next.js" width="50" height="50" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
 <img alt="MobX" width="50" height="50" src="https://mobx.js.org/img/mobx.png">
 <img alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg">
