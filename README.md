@@ -1,11 +1,11 @@
-# Vítor Tavares ∾ @vitorwtavares
+# Vítor Tavares - @vitorwtavares
 
-### ✨ Hi there, stranger ✨
+### Hello 🌊
 
-🖥️ I'm a Software Engineer located in Brazil, currently working on cool stuff over at [AvantStay](https://avantstay.com/)<br>
-⌨️ I love creating projects and learning new technologies<br>
-🍕 In my spare time I'm a home cook who thinks he's a chef, I've been told my pizzas are pretty good<br>
-🎮 Love playing online games and watching e-sports
+🖥️ I'm a Senior Software Engineer located in Brazil, currently working on cool stuff over at [AvantStay](https://avantstay.com/)<br>
+⌨️ Always keeping up to date and learning new technologies by creating projects<br>
+🍮 In my spare time I'm a home cook who thinks he's a chef, crème brûlée is my recent obsession<br>
+🎮 Love playing online PC games, going to the gym and watching the NBA
 
 ### Cool tech I'm currently using and learning
 
