@@ -2,7 +2,7 @@
 
 ### Hello 🌊
 
-🖥️ I'm a Software Engineer focused on frontend with React and TypeScript
+🖥️ I'm a Software Engineer focused on frontend with React and TypeScript<br>
 ⌨️ Always keeping up to date and learning new technologies by creating projects and exploring new tools<br>
 🍮 In my spare time I'm a home cook who thinks he's a chef, crème brûlée is my recent obsession<br>
 🎮 Love playing online PC games, going to the gym and watching the NBA
