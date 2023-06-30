@@ -2,8 +2,8 @@
 
 ### Hello 🌊
 
-🖥️ I'm a Senior Software Engineer located in Brazil, currently working on cool stuff over at [AvantStay](https://avantstay.com/)<br>
-⌨️ Always keeping up to date and learning new technologies by creating projects<br>
+🖥️ I'm a Software Engineer focused on frontend with React and TypeScript
+⌨️ Always keeping up to date and learning new technologies by creating projects and exploring new tools<br>
 🍮 In my spare time I'm a home cook who thinks he's a chef, crème brûlée is my recent obsession<br>
 🎮 Love playing online PC games, going to the gym and watching the NBA
 
