@@ -1,18 +1,16 @@
 # Vítor Tavares - @vitorwtavares
 
-🖥️ Software Engineer specialized in frontend with React and TypeScript<br>
-⌨️ Experience working on projects of all sizes in companies in Brasil, USA and Europe always with the latest tech and striving for the best code<br>
-🎮 Love playing online PC games, going to the gym and eating
+🖥️ Senior Front-End Engineer with 5+ years of experience building scalable, high-impact web applications using React, TypeScript, and Next.js. I’ve worked on enterprise-grade products used by large organizations, as well as customer-facing platforms where performance, reliability, and conversion matter.
+🌏 Traveling is my favorite hobby (especially to eat different food).
 
-### Cool tech I'm currently using and learning
+### Tech stack (and tech I'm learning)
 
 <img alt="React.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"><img alt="TypeScript" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png">
-<img alt="Vite" width="50" height="50" src="https://vitejs.dev/logo-with-shadow.png">
 <img alt="MobX" width="50" height="50" src="https://mobx.js.org/img/mobx.png">
+<img alt="Next.js" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg">
 <img alt="Node.js" width="50" height="50" src="https://nodejs.org/static/logos/jsIconGreen.svg">
-<img alt="JavaScript" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png">
-<img alt="Github" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg">
-<img alt="Gitlab" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg">
+<img alt="PostgreSQL" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png">
+<img alt="Vite" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/960px-Vitejs-logo.svg.png">
 
 ### Find me online
 
