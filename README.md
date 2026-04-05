@@ -1,6 +1,6 @@
 # Vítor Tavares - @vitorwtavares
 
-🖥️ Senior Front-End Engineer with 5+ years of experience building scalable, high-impact web applications using React, TypeScript, and Next.js. I’ve worked on enterprise-grade products used by large organizations, as well as customer-facing platforms where performance, reliability, and conversion matter.
+🖥️ Senior Front-End Engineer with 6+ years of experience building scalable, high-impact web applications using React, TypeScript, and Next.js. I’ve worked on enterprise-grade products used by large organizations, as well as customer-facing platforms where performance, reliability, and conversion matter.
 
 🌏 Traveling is my favorite hobby (especially to eat different food).
 
