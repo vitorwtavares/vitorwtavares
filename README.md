@@ -8,7 +8,7 @@
 
 <table><tr>
 <td><img alt="React.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"></td>
-<td><img alt="TypeScript" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png"></td>
+<td><img alt="TypeScript" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png"></td>
 <td><img alt="MobX" width="50" height="50" src="https://mobx.js.org/img/mobx.png"></td>
 <td><img alt="Next.js" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg"></td>
 <td><img alt="Node.js" width="50" height="50" src="https://nodejs.org/static/logos/jsIconGreen.svg"></td>
