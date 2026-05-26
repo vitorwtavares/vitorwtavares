@@ -6,8 +6,8 @@ Full-stack engineer from Brazil 🇧🇷 with deep front-end expertise. 6+ years
 
 ### Recent projects
 
-2026 · **noloop** · [code](https://github.com/vitorwtavares/noloop) · [live](https://no-loop.vercel.app/)  
-2024 · **Pokémon booster pack simulator** · [code](https://github.com/vitorwtavares/pokebooster-sim) · [live](https://pokebooster-sim.vercel.app)
+2026 - present · **noloop** · [code](https://github.com/vitorwtavares/noloop) · [live](https://no-loop.vercel.app/)  
+2024 - 2026 · **Pokémon booster pack simulator** · [code](https://github.com/vitorwtavares/pokebooster-sim) · [live](https://pokebooster-sim.vercel.app)
 
 ### Find me online
 
