@@ -14,5 +14,3 @@ Full-stack engineer from Brazil 🇧🇷 with deep front-end expertise. 6+ years
 ###### [LinkedIn](https://www.linkedin.com/in/vitorwtavares/?locale=en_US)
 
 ###### [Website / Portfolio](https://vitortavares.dev)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorwtavares&layout=compact&theme=default&hide_border=true&langs_count=6)
