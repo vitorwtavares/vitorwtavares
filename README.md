@@ -6,7 +6,7 @@
 
 ## Recent projects
 
-2026 - present · **joolkit** · [code](https://github.com/vitorwtavares/joolkit) · [live](https://joolkit.com)  
+2025 - present · **joolkit** · [code](https://github.com/vitorwtavares/joolkit) · [live](https://joolkit.com)  
 2024 - 2026 · **Pokémon booster pack simulator** · [code](https://github.com/vitorwtavares/pokebooster-sim) · [live](https://pokebooster-sim.vercel.app)
 
 ## Find me online
